@@ -1,10 +1,10 @@
 package Herança.Receita;
 public class Contribuinte{
     private String nome;
-    public void setNome(String Nome){
+    public void setNome(String nome){
         this.nome = nome;
     }
-    public getNome(){
+    public String getNome(){
         return(nome);
     }
 }
