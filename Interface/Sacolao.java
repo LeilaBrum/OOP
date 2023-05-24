@@ -8,5 +8,6 @@ public class Sacolao {
 		System.out.println("Fruta vermelha: " + a.identifica_fruta(a.fruta_vermelha));
 		System.out.println("Quantidade de frutas: " + a.quantidade_frutas(12));
 		System.out.println("Preço por kilo: R$ " + a.preco_kilo(5.66));
+	
 	}
 }
